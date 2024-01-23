@@ -1,0 +1,510 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}
+.desktop-8-xwW {
+  box-sizing: border-box;
+  padding: 2.4rem 7.815rem 11.2rem 19.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e8fff9;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 {
+  margin: 0rem 11.585rem 0.7rem 0rem;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 .logo-ahz {
+  margin: 0.4rem 14.6rem 0.4rem 0rem;
+  height: calc(100% - 0.8rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 .logo-ahz .favicon-tig {
+  margin-right: 1rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 .logo-ahz .brand-name-ceg {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 .text-large-text-button--6Jx {
+  margin-right: 0.4rem;
+  width: 10.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 .text-large-text-button--x6G {
+  margin-right: 0.35rem;
+  width: 10.7rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 .text-large-text-button--1aL {
+  margin-right: 0.3rem;
+  width: 12.1rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 .text-large-text-button--f96 {
+  margin-right: 20.45rem;
+  width: 9.6rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .desktop-top-navbar-1-HD6 .filled-medium-filled-button--hrU {
+  margin: 0.4rem 0;
+  width: 10.1rem;
+  height: calc(100% - 0.8rem);
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #23856d;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ {
+  width: 100%;
+  height: 76.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-10-SSg {
+  box-sizing: border-box;
+  padding: 0.8rem 3.033rem 0.8rem 2.7rem;
+  width: 21.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 11.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #f3dcd4;
+  border-radius: 3.2rem;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-10-SSg .get-update-news-732 {
+  margin-right: 1.53rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #eb5b2e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-10-SSg .material-symbols-travel-aSQ {
+  margin-top: 0.0025rem;
+  width: 1.7375rem;
+  height: 1.7375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .epilogue-inter-G4L {
+  width: 46.9rem;
+  height: 32.7rem;
+  position: absolute;
+  left: 0;
+  top: 21.9rem;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .epilogue-inter-G4L .your-ultimate-travel-companion-aap {
+  margin-bottom: 2.5rem;
+  max-width: 46.9rem;
+  font-size: 6.5rem;
+  font-weight: 700;
+  line-height: 1.2384615385;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Epilogue, 'Source Sans Pro';
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .epilogue-inter-G4L .embrace-lifes-vastness-venture-forth-and-discover-the-wonders-waiting-beyond-the-world-beckons-seize-its-grand-offerings-now-GTe {
+  max-width: 35.7rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 2.4rem;
+  width: 42rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 62.8rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1.3rem 1.9rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #ffffff;
+  border-radius: 4.3rem;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-2-naQ {
+  margin-right: 2.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-2-naQ .vector-LM2 {
+  margin-right: 1.6rem;
+  width: 1.4rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-2-naQ .frame-2-Fyn {
+  width: 9.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-2-naQ .frame-2-Fyn .frame-2-oEc {
+  margin-right: 2.8rem;
+  box-sizing: border-box;
+  padding-right: 0.0678rem;
+  width: calc(100% - 2.8rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-2-naQ .frame-2-Fyn .frame-2-oEc .location-va8 {
+  margin-right: 0.6672rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-2-naQ .frame-2-Fyn .frame-2-oEc .ep-arrow-down-bold-cC4 {
+  margin-top: 0.0828rem;
+  width: 0.6651rem;
+  height: 0.3828rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-2-naQ .frame-2-Fyn .paris-france-XZv {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .line-17-Sgt {
+  margin: 0rem 2.7rem 2.8rem 0rem;
+  width: 0rem;
+  height: 0.1rem;
+  background-color: #e3e3e3;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-3-95W {
+  margin-right: 2.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-3-95W .vector-gbE {
+  margin-right: 1.6rem;
+  width: 1.8rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-3-95W .frame-2-DbA {
+  width: 9.8rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-3-95W .frame-2-DbA .frame-2-NU4 {
+  margin-right: 5.4rem;
+  box-sizing: border-box;
+  padding-right: 0.0678rem;
+  width: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-3-95W .frame-2-DbA .frame-2-NU4 .date-uit {
+  margin-right: 0.6672rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-3-95W .frame-2-DbA .frame-2-NU4 .ep-arrow-down-bold-1X2 {
+  margin-top: 0.0828rem;
+  width: 0.6651rem;
+  height: 0.3828rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .frame-3-95W .frame-2-DbA .april-2024-8be {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .booking-form-X8g .icon-box-dYQ {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .ellipse-24-JuS {
+  width: 55.4761rem;
+  height: 55.4761rem;
+  position: absolute;
+  left: 51.1531rem;
+  top: 21.0239rem;
+  background-color: #31a0fe;
+  border-radius: 27.738rem;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .rectangle-47-1Yx {
+  width: 70.6854rem;
+  height: 76.4954rem;
+  position: absolute;
+  left: 46em;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 33.9096rem;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse {
+  box-sizing: border-box;
+  padding: 1.33rem 0rem 2.55rem 2.328rem;
+  width: 17.6283rem;
+  height: 15.9652rem;
+  position: absolute;
+  left: 94.6719rem;
+  top: 41.5761rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1.3rem 1.9rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #ffffff;
+  border-radius: 0.887rem;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-f9l8-AqA {
+  margin: 0rem 1.367rem 0.459rem 3.798rem;
+  width: calc(100% - 5.1652rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-f9l8-AqA .k-tFN {
+  margin: 1.22rem 2.557rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: 0.01rem;
+  color: #252b42;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-f9l8-AqA .mdi-cards-heart-Aya {
+  width: 1.4783rem;
+  height: 1.3563rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .happy-customers-uRN {
+  margin: 0rem 1.704rem 2.059rem 0rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-dr2k-yw2 {
+  width: 20.4rem;
+  display: flex;
+  column-gap: 0.6652rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-dr2k-yw2 .ellipse-19-71e {
+  width: 3.5478rem;
+  height: 3.5478rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-19-bg.png');
+  border-radius: 1.7739rem;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-dr2k-yw2 .ellipse-20-R2L {
+  width: 3.5478rem;
+  height: 3.5478rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-20-bg.png');
+  border-radius: 1.7739rem;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-dr2k-yw2 .ellipse-21-Y6x {
+  width: 3.5478rem;
+  height: 3.5478rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-21-bg-9KS.png');
+  border-radius: 1.7739rem;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-dr2k-yw2 .ellipse-22-rtL {
+  width: 3.5478rem;
+  height: 3.5478rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-22-bg-qfJ.png');
+  border-radius: 1.7739rem;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .frame-8-tse .auto-group-dr2k-yw2 .ellipse-23-CBW {
+  width: 3.5478rem;
+  height: 3.5478rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-23-bg-tvg.png');
+  border-radius: 1.7739rem;
+  flex-shrink: 0;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .ellipse-8-5FJ {
+  width: 10.9761rem;
+  height: 10.9761rem;
+  position: absolute;
+  left: 48.263rem;
+  top: 59.4261rem;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1000000015);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-8-bg-wbJ.png');
+  border-radius: 5.488rem;
+}
+.desktop-8-xwW .auto-group-nkvg-7QQ .rectangle-20-jKr {
+  width: 7.4283rem;
+  height: 7.4283rem;
+  position: relative;
+  left: 92.8283rem;
+  top: 23.837rem;
+  background-size: 100% 125.316%;
+  background-position: 0 -0.2751rem;
+  background-image: url('../assets/rectangle-20-FGg.png');
+  border-radius: 5.5435rem;
+}
